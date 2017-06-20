@@ -1,0 +1,42 @@
+[submodule "vim/vim.symlink/bundle/vim-fugitive"]
+	path = vim/vim.symlink/bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "vim/vim.symlink/bundle/vim-scriptease"]
+	path = vim/vim.symlink/bundle/vim-scriptease
+	url = git://github.com/tpope/vim-scriptease.git
+[submodule "vim/vim.symlink/bundle/vim-sensible"]
+	path = vim/vim.symlink/bundle/vim-sensible
+	url = git://github.com/tpope/vim-sensible.git
+[submodule "vim/vim.symlink/bundle/vim-unimpaired"]
+	path = vim/vim.symlink/bundle/vim-unimpaired
+	url = git://github.com/tpope/vim-unimpaired.git
+[submodule "vim/vim.symlink/bundle/vim-repeat"]
+	path = vim/vim.symlink/bundle/vim-repeat
+	url = git://github.com/tpope/vim-repeat.git
+[submodule "vim/vim.symlink/bundle/vim-tmux-navigator"]
+	path = vim/vim.symlink/bundle/vim-tmux-navigator
+	url = git://github.com/christoomey/vim-tmux-navigator.git
+[submodule "vim/vim.symlink/bundle/tcomment_vim"]
+	path = vim/vim.symlink/bundle/tcomment_vim
+	url = git://github.com/tomtom/tcomment_vim.git
+[submodule "vim/vim.symlink/bundle/vim-easymotion"]
+	path = vim/vim.symlink/bundle/vim-easymotion
+	url = git://github.com/Lokaltog/vim-easymotion
+[submodule "vim/vim.symlink/bundle/vim-airline"]
+	path = vim/vim.symlink/bundle/vim-airline
+	url = git://github.com/bling/vim-airline
+[submodule "vim/vim.symlink/bundle/ctrlp.vim"]
+	path = vim/vim.symlink/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "vim/vim.symlink/bundle/vim-bbye"]
+	path = vim/vim.symlink/bundle/vim-bbye
+	url = https://github.com/moll/vim-bbye
+[submodule "vim/vim.symlink/bundle/ack.vim"]
+	path = vim/vim.symlink/bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim
+[submodule "vim/vim.symlink/bundle/ultisnips"]
+	path = vim/vim.symlink/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "vim/vim.symlink/bundle/ListToggle"]
+	path = vim/vim.symlink/bundle/ListToggle
+	url = https://github.com/Valloric/ListToggle
