@@ -9,7 +9,7 @@ repository of [@bmeurer](https://github.com/bmeurer).
 
 ## Installation
 
-- `git clone git://github.com/bmeurer/dotfiles ~/.dotfiles`
+- `git clone git://github.com/cuhrhan/dotfiles ~/.dotfiles`
 - `cd ~/.dotfiles`
 - `./install.sh`
 
